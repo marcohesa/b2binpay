@@ -1,0 +1,1 @@
+<small>paypal</small>
